@@ -1,0 +1,15 @@
+{
+    "name": "Ecoin",
+    "symbol": "ECN",
+    "description": "eye Coin",
+    "image": "https://raw.githubusercontent.com/mariorimonz-prog/solino/main/meta/ecn-20260731114247.jpg",
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/mariorimonz-prog/solino/main/meta/ecn-20260731114247.jpg",
+                "type": "image/jpeg"
+            }
+        ],
+        "category": "image"
+    }
+}
