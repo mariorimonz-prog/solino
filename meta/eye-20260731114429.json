@@ -1,0 +1,15 @@
+{
+    "name": "Eye Coin",
+    "symbol": "EYE",
+    "description": "Eye",
+    "image": "https://raw.githubusercontent.com/mariorimonz-prog/solino/main/meta/eye-20260731114429.jpg",
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/mariorimonz-prog/solino/main/meta/eye-20260731114429.jpg",
+                "type": "image/jpeg"
+            }
+        ],
+        "category": "image"
+    }
+}
