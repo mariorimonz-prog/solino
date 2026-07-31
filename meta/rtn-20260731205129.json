@@ -1,0 +1,16 @@
+{
+    "name": "Rotoken",
+    "symbol": "RTN",
+    "description": "rtn",
+    "image": "https://raw.githubusercontent.com/mariorimonz-prog/solino/main/meta/rtn-20260731205129.jpg",
+    "showName": true,
+    "properties": {
+        "category": "fungible",
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/mariorimonz-prog/solino/main/meta/rtn-20260731205129.jpg",
+                "type": "image/jpeg"
+            }
+        ]
+    }
+}
