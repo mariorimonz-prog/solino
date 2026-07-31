@@ -1,0 +1,15 @@
+{
+    "name": "Hero Token",
+    "symbol": "HOT",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/mariorimonz-prog/solino/main/meta/hot-20260731201756.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/mariorimonz-prog/solino/main/meta/hot-20260731201756.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image"
+    }
+}
