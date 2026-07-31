@@ -1,0 +1,15 @@
+{
+    "name": "lastowl",
+    "symbol": "LOL",
+    "description": "test",
+    "image": "https://raw.githubusercontent.com/mariorimonz-prog/solino/main/meta/lol-20260731103020.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/mariorimonz-prog/solino/main/meta/lol-20260731103020.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image"
+    }
+}
