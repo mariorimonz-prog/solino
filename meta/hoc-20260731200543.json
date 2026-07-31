@@ -1,0 +1,15 @@
+{
+    "name": "Hero Coin",
+    "symbol": "HOC",
+    "description": "hero",
+    "image": "https://raw.githubusercontent.com/mariorimonz-prog/solino/main/meta/hoc-20260731200543.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/mariorimonz-prog/solino/main/meta/hoc-20260731200543.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image"
+    }
+}
