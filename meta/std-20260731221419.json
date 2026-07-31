@@ -1,0 +1,16 @@
+{
+    "name": "stupid",
+    "symbol": "std",
+    "description": "std",
+    "image": "https://raw.githubusercontent.com/mariorimonz-prog/solino/main/meta/std-20260731221419.jpg",
+    "showName": true,
+    "properties": {
+        "category": "fungible",
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/mariorimonz-prog/solino/main/meta/std-20260731221419.jpg",
+                "type": "image/jpeg"
+            }
+        ]
+    }
+}
