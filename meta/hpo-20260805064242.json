@@ -1,0 +1,16 @@
+{
+    "name": "Happoo",
+    "symbol": "HPO",
+    "description": "Happoo Token",
+    "image": "https://raw.githubusercontent.com/mariorimonz-prog/solino/main/meta/hpo-20260805064242.jpg",
+    "showName": true,
+    "properties": {
+        "category": "fungible",
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/mariorimonz-prog/solino/main/meta/hpo-20260805064242.jpg",
+                "type": "image/jpeg"
+            }
+        ]
+    }
+}
