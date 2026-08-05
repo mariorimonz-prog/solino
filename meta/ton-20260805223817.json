@@ -1,0 +1,16 @@
+{
+    "name": "Tokino",
+    "symbol": "TON",
+    "description": "Tokino",
+    "image": "https://raw.githubusercontent.com/mariorimonz-prog/solino/main/meta/ton-20260805223817.jpg",
+    "showName": true,
+    "properties": {
+        "category": "fungible",
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/mariorimonz-prog/solino/main/meta/ton-20260805223817.jpg",
+                "type": "image/jpeg"
+            }
+        ]
+    }
+}
