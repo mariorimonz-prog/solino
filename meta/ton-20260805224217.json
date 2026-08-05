@@ -1,0 +1,16 @@
+{
+    "name": "tokin",
+    "symbol": "ton",
+    "description": "t",
+    "image": "https://raw.githubusercontent.com/mariorimonz-prog/solino/main/meta/ton-20260805224217.jpg",
+    "showName": true,
+    "properties": {
+        "category": "fungible",
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/mariorimonz-prog/solino/main/meta/ton-20260805224217.jpg",
+                "type": "image/jpeg"
+            }
+        ]
+    }
+}
