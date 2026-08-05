@@ -1,0 +1,16 @@
+{
+    "name": "last",
+    "symbol": "LST",
+    "description": "hello",
+    "image": "https://raw.githubusercontent.com/mariorimonz-prog/solino/main/meta/lst-20260805150734.webp",
+    "showName": true,
+    "properties": {
+        "category": "fungible",
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/mariorimonz-prog/solino/main/meta/lst-20260805150734.webp",
+                "type": "image/webp"
+            }
+        ]
+    }
+}
