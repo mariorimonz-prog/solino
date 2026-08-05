@@ -1,0 +1,16 @@
+{
+    "name": "5",
+    "symbol": "55",
+    "description": "55",
+    "image": "https://raw.githubusercontent.com/mariorimonz-prog/solino/main/meta/55-20260805235938.jpg",
+    "showName": true,
+    "properties": {
+        "category": "fungible",
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/mariorimonz-prog/solino/main/meta/55-20260805235938.jpg",
+                "type": "image/jpeg"
+            }
+        ]
+    }
+}
