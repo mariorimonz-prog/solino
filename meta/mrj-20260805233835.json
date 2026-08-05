@@ -1,0 +1,16 @@
+{
+    "name": "MrJoke",
+    "symbol": "MRJ",
+    "description": "mrjoke",
+    "image": "https://raw.githubusercontent.com/mariorimonz-prog/solino/main/meta/mrj-20260805233835.jpg",
+    "showName": true,
+    "properties": {
+        "category": "fungible",
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/mariorimonz-prog/solino/main/meta/mrj-20260805233835.jpg",
+                "type": "image/jpeg"
+            }
+        ]
+    }
+}
