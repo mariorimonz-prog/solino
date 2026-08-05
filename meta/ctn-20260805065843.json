@@ -1,0 +1,16 @@
+{
+    "name": "Coin Tkn",
+    "symbol": "CTN",
+    "description": "CTN",
+    "image": "https://raw.githubusercontent.com/mariorimonz-prog/solino/main/meta/ctn-20260805065843.jpg",
+    "showName": true,
+    "properties": {
+        "category": "fungible",
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/mariorimonz-prog/solino/main/meta/ctn-20260805065843.jpg",
+                "type": "image/jpeg"
+            }
+        ]
+    }
+}
