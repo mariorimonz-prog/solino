@@ -1,0 +1,16 @@
+{
+    "name": "BearT",
+    "symbol": "BET",
+    "description": "Bear",
+    "image": "https://raw.githubusercontent.com/mariorimonz-prog/solino/main/meta/bet-20260805223919.jpg",
+    "showName": true,
+    "properties": {
+        "category": "fungible",
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/mariorimonz-prog/solino/main/meta/bet-20260805223919.jpg",
+                "type": "image/jpeg"
+            }
+        ]
+    }
+}
