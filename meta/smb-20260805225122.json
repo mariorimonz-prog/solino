@@ -1,0 +1,16 @@
+{
+    "name": "Smokey Bear",
+    "symbol": "SMB",
+    "description": "Only YOU can prevent paper hands. 🐻🔥 The bear that burns tokens, not forests.",
+    "image": "https://raw.githubusercontent.com/mariorimonz-prog/solino/main/meta/smb-20260805225122.jpg",
+    "showName": true,
+    "properties": {
+        "category": "fungible",
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/mariorimonz-prog/solino/main/meta/smb-20260805225122.jpg",
+                "type": "image/jpeg"
+            }
+        ]
+    }
+}
