@@ -1,0 +1,16 @@
+{
+    "name": "lolo",
+    "symbol": "LOL",
+    "description": "lolo",
+    "image": "https://raw.githubusercontent.com/mariorimonz-prog/solino/main/meta/lol-20260806195013.jpg",
+    "showName": true,
+    "properties": {
+        "category": "fungible",
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/mariorimonz-prog/solino/main/meta/lol-20260806195013.jpg",
+                "type": "image/jpeg"
+            }
+        ]
+    }
+}
