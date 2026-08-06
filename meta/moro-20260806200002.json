@@ -1,0 +1,16 @@
+{
+    "name": "monero",
+    "symbol": "MORO",
+    "description": "monero",
+    "image": "https://raw.githubusercontent.com/mariorimonz-prog/solino/main/meta/moro-20260806200002.jpg",
+    "showName": true,
+    "properties": {
+        "category": "fungible",
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/mariorimonz-prog/solino/main/meta/moro-20260806200002.jpg",
+                "type": "image/jpeg"
+            }
+        ]
+    }
+}
