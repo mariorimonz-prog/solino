@@ -1,0 +1,13 @@
+{
+    "enabled": true,
+    "timezone": "Asia/Tehran",
+    "hour": 20,
+    "minute": 0,
+    "cronUtc": "30 16 * * *",
+    "mint": "EbhDsCN6iB3ZSy6DNT6dodND1fcJmP1N2s8r8gLWhWtV",
+    "name": "monero",
+    "symbol": "MORO",
+    "caption": "💢 سیگنال میم کوین تایید شد!\n\n🔰 نام: <b>monero</b>\n🌀 نماد: <b>$MORO</b>\n\n♨️ آدرس کانترکت:\n<code>EbhDsCN6iB3ZSy6DNT6dodND1fcJmP1N2s8r8gLWhWtV</code>",
+    "photoUrl": "https://raw.githubusercontent.com/mariorimonz-prog/solino/main/meta/moro-20260806200002.jpg",
+    "updatedAt": "2026-08-06T20:08:42+00:00"
+}
