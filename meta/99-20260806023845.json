@@ -1,0 +1,16 @@
+{
+    "name": "99",
+    "symbol": "99",
+    "description": "99",
+    "image": "https://raw.githubusercontent.com/mariorimonz-prog/solino/main/meta/99-20260806023845.jpg",
+    "showName": true,
+    "properties": {
+        "category": "fungible",
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/mariorimonz-prog/solino/main/meta/99-20260806023845.jpg",
+                "type": "image/jpeg"
+            }
+        ]
+    }
+}
