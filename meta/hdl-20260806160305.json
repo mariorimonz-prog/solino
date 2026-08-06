@@ -1,0 +1,16 @@
+{
+    "name": "Hodlbaby",
+    "symbol": "HDL",
+    "description": "Hodlbaby",
+    "image": "https://raw.githubusercontent.com/mariorimonz-prog/solino/main/meta/hdl-20260806160305.jpg",
+    "showName": true,
+    "properties": {
+        "category": "fungible",
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/mariorimonz-prog/solino/main/meta/hdl-20260806160305.jpg",
+                "type": "image/jpeg"
+            }
+        ]
+    }
+}
