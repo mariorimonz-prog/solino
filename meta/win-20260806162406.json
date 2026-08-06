@@ -1,0 +1,16 @@
+{
+    "name": "Wealth Is Near",
+    "symbol": "WIN",
+    "description": "Wealth Is Near",
+    "image": "https://raw.githubusercontent.com/mariorimonz-prog/solino/main/meta/win-20260806162406.jpg",
+    "showName": true,
+    "properties": {
+        "category": "fungible",
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/mariorimonz-prog/solino/main/meta/win-20260806162406.jpg",
+                "type": "image/jpeg"
+            }
+        ]
+    }
+}
