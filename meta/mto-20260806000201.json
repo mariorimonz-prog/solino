@@ -1,0 +1,16 @@
+{
+    "name": "moteora",
+    "symbol": "mto",
+    "description": "metora",
+    "image": "https://raw.githubusercontent.com/mariorimonz-prog/solino/main/meta/mto-20260806000201.webp",
+    "showName": true,
+    "properties": {
+        "category": "fungible",
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/mariorimonz-prog/solino/main/meta/mto-20260806000201.webp",
+                "type": "image/webp"
+            }
+        ]
+    }
+}
