@@ -1,0 +1,16 @@
+{
+    "name": "Mother of TinyTank",
+    "symbol": "KINDIA",
+    "description": "Mother of TinyTank",
+    "image": "https://raw.githubusercontent.com/mariorimonz-prog/solino/main/meta/kindia-20260806202838.jpg",
+    "showName": true,
+    "properties": {
+        "category": "fungible",
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/mariorimonz-prog/solino/main/meta/kindia-20260806202838.jpg",
+                "type": "image/jpeg"
+            }
+        ]
+    }
+}
