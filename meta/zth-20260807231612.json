@@ -1,0 +1,16 @@
+{
+    "name": "Zenith Protocol",
+    "symbol": "ZTH",
+    "description": "Web: https://zenithprotocol.top · X: https://x.com/ZenithOrbital",
+    "image": "https://raw.githubusercontent.com/mariorimonz-prog/solino/main/meta/zth-20260807231612.png",
+    "showName": true,
+    "properties": {
+        "category": "fungible",
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/mariorimonz-prog/solino/main/meta/zth-20260807231612.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}
