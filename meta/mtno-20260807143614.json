@@ -1,0 +1,16 @@
+{
+    "name": "motino",
+    "symbol": "MTNO",
+    "description": "motino",
+    "image": "https://raw.githubusercontent.com/mariorimonz-prog/solino/main/meta/mtno-20260807143614.jpg",
+    "showName": true,
+    "properties": {
+        "category": "fungible",
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/mariorimonz-prog/solino/main/meta/mtno-20260807143614.jpg",
+                "type": "image/jpeg"
+            }
+        ]
+    }
+}
