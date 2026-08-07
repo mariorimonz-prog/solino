@@ -1,0 +1,16 @@
+{
+    "name": "Popcat",
+    "symbol": "POPCAT",
+    "description": "Popcat (POPCAT)",
+    "image": "https://raw.githubusercontent.com/mariorimonz-prog/solino/main/meta/popcat-20260807213954.jpg",
+    "showName": true,
+    "properties": {
+        "category": "fungible",
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/mariorimonz-prog/solino/main/meta/popcat-20260807213954.jpg",
+                "type": "image/jpeg"
+            }
+        ]
+    }
+}
