@@ -1,0 +1,16 @@
+{
+    "name": "BARON CAT",
+    "symbol": "BARON",
+    "description": "BARON CAT",
+    "image": "https://raw.githubusercontent.com/mariorimonz-prog/solino/main/meta/baron-20260807153645.png",
+    "showName": true,
+    "properties": {
+        "category": "fungible",
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/mariorimonz-prog/solino/main/meta/baron-20260807153645.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}
