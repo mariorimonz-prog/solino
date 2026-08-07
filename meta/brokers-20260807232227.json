@@ -1,0 +1,16 @@
+{
+    "name": "SolBrokers",
+    "symbol": "BROKERS",
+    "description": "Web: https://solbrokers.io/ · X: https://x.com/solbrokers",
+    "image": "https://raw.githubusercontent.com/mariorimonz-prog/solino/main/meta/brokers-20260807232227.jpg",
+    "showName": true,
+    "properties": {
+        "category": "fungible",
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/mariorimonz-prog/solino/main/meta/brokers-20260807232227.jpg",
+                "type": "image/jpeg"
+            }
+        ]
+    }
+}
