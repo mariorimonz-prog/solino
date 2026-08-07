@@ -1,0 +1,16 @@
+{
+    "name": "Elon Tusk",
+    "symbol": "TUSK",
+    "description": "Web: https://x.com/boneGPT/status/2085858110409670778 · X: https://x.com/esotericpigeon/status/2085859709131620357?s=20",
+    "image": "https://raw.githubusercontent.com/mariorimonz-prog/solino/main/meta/tusk-20260807232802.webp",
+    "showName": true,
+    "properties": {
+        "category": "fungible",
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/mariorimonz-prog/solino/main/meta/tusk-20260807232802.webp",
+                "type": "image/webp"
+            }
+        ]
+    }
+}
