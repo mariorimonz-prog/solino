@@ -1,0 +1,16 @@
+{
+    "name": "Buttcoin",
+    "symbol": "BUTTCOIN",
+    "description": "Web: https://web.archive.org/web/20110608015104/http://buttcoin.org/ · X: https://x.com/i/communities/2009440403682914712",
+    "image": "https://raw.githubusercontent.com/mariorimonz-prog/solino/main/meta/buttcoin-20260807212113.jpg",
+    "showName": true,
+    "properties": {
+        "category": "fungible",
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/mariorimonz-prog/solino/main/meta/buttcoin-20260807212113.jpg",
+                "type": "image/jpeg"
+            }
+        ]
+    }
+}
