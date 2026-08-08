@@ -1,13 +1,13 @@
 {
-    "enabled": true,
+    "enabled": false,
     "timezone": "Asia/Tehran",
     "hour": 20,
     "minute": 0,
     "cronUtc": "30 16 * * *",
-    "mint": "EbhDsCN6iB3ZSy6DNT6dodND1fcJmP1N2s8r8gLWhWtV",
-    "name": "monero",
-    "symbol": "MORO",
+    "mint": "3kuxiZazcYdR9wkW5FcBmY8jVhJzHb5XT1pkwHKMVNRP",
+    "name": "BARON CAT",
+    "symbol": "BARON",
     "caption": "💢 سیگنال میم کوین تایید شد!\n\n🔰 نام: <b>monero</b>\n🌀 نماد: <b>$MORO</b>\n\n♨️ آدرس کانترکت:\n<code>EbhDsCN6iB3ZSy6DNT6dodND1fcJmP1N2s8r8gLWhWtV</code>",
-    "photoUrl": "https://raw.githubusercontent.com/mariorimonz-prog/solino/main/meta/moro-20260806200002.jpg",
-    "updatedAt": "2026-08-06T20:08:54+00:00"
+    "photoUrl": "https://raw.githubusercontent.com/mariorimonz-prog/solino/main/meta/baron-20260807153645.png",
+    "updatedAt": "2026-08-08T00:02:25+00:00"
 }
