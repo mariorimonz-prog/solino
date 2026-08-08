@@ -1,0 +1,16 @@
+{
+    "name": "Pudgy Penguins",
+    "symbol": "PENGU",
+    "description": "X: https://x.com/pudgypenguins",
+    "image": "https://raw.githubusercontent.com/mariorimonz-prog/solino/main/meta/pengu-20260808073737.png",
+    "showName": true,
+    "properties": {
+        "category": "fungible",
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/mariorimonz-prog/solino/main/meta/pengu-20260808073737.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}
