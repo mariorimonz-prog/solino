@@ -1,0 +1,16 @@
+{
+    "name": "swarms",
+    "symbol": "SWARMS",
+    "description": "Web: https://swarms.ai · X: https://x.com/swarms_corp",
+    "image": "https://raw.githubusercontent.com/mariorimonz-prog/solino/main/meta/swarms-20260808151921.png",
+    "showName": true,
+    "properties": {
+        "category": "fungible",
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/mariorimonz-prog/solino/main/meta/swarms-20260808151921.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}
