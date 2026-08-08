@@ -1,0 +1,16 @@
+{
+    "name": "STONK",
+    "symbol": "STONK",
+    "description": "Web: https://www.stonkfun.xyz/ · X: https://x.com/LaunchOnSF",
+    "image": "https://raw.githubusercontent.com/mariorimonz-prog/solino/main/meta/stonk-20260808161125.png",
+    "showName": true,
+    "properties": {
+        "category": "fungible",
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/mariorimonz-prog/solino/main/meta/stonk-20260808161125.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}
