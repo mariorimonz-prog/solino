@@ -1,0 +1,16 @@
+{
+    "name": "MetaDAO",
+    "symbol": "META",
+    "description": "Web: https://www.metadao.fi · X: https://x.com/MetaDAOProject",
+    "image": "https://raw.githubusercontent.com/mariorimonz-prog/solino/main/meta/meta-20260808002028.png",
+    "showName": true,
+    "properties": {
+        "category": "fungible",
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/mariorimonz-prog/solino/main/meta/meta-20260808002028.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}
