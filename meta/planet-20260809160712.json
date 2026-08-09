@@ -1,0 +1,16 @@
+{
+    "name": "PlanetCoin",
+    "symbol": "PLANET",
+    "description": "X: https://x.com/Solana_LOS_/status/2084312970205561056?s=20",
+    "image": "https://raw.githubusercontent.com/mariorimonz-prog/solino/main/meta/planet-20260809160712.png",
+    "showName": true,
+    "properties": {
+        "category": "fungible",
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/mariorimonz-prog/solino/main/meta/planet-20260809160712.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}
