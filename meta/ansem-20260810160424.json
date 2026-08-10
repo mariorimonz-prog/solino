@@ -1,0 +1,16 @@
+{
+    "name": "The Black Bull",
+    "symbol": "ANSEM",
+    "description": "Web: Https://www.blackbullsol.com · X: https://x.com/blackbullsol",
+    "image": "https://raw.githubusercontent.com/mariorimonz-prog/solino/main/meta/ansem-20260810160424.png",
+    "showName": true,
+    "properties": {
+        "category": "fungible",
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/mariorimonz-prog/solino/main/meta/ansem-20260810160424.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}
