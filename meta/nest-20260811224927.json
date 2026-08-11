@@ -1,0 +1,16 @@
+{
+    "name": "Nest",
+    "symbol": "NEST",
+    "description": "Nest (NEST)",
+    "image": "https://raw.githubusercontent.com/mariorimonz-prog/solino/main/meta/nest-20260811224927.jpg",
+    "showName": true,
+    "properties": {
+        "category": "fungible",
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/mariorimonz-prog/solino/main/meta/nest-20260811224927.jpg",
+                "type": "image/jpeg"
+            }
+        ]
+    }
+}
