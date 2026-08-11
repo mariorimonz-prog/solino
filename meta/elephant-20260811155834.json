@@ -1,0 +1,16 @@
+{
+    "name": "The Nietzschean Elephant",
+    "symbol": "ELEPHANT",
+    "description": "Web: https://www.dtnext.in/news/tamilnadu/supriya-sahu-shares-rare-picture-of-elephant-at-3266-metre-elevation-ahead-of-world-elephant-day · X: https://x.com/DarthMiaul/status/2087202537115992132",
+    "image": "https://raw.githubusercontent.com/mariorimonz-prog/solino/main/meta/elephant-20260811155834.webp",
+    "showName": true,
+    "properties": {
+        "category": "fungible",
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/mariorimonz-prog/solino/main/meta/elephant-20260811155834.webp",
+                "type": "image/webp"
+            }
+        ]
+    }
+}
