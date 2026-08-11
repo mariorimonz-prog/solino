@@ -1,0 +1,16 @@
+{
+    "name": "PnutGuy",
+    "symbol": "PGUY",
+    "description": "PnutGuy (PGUY)",
+    "image": "https://raw.githubusercontent.com/mariorimonz-prog/solino/main/meta/pguy-20260811224039.jpg",
+    "showName": true,
+    "properties": {
+        "category": "fungible",
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/mariorimonz-prog/solino/main/meta/pguy-20260811224039.jpg",
+                "type": "image/jpeg"
+            }
+        ]
+    }
+}
