@@ -1,0 +1,16 @@
+{
+    "name": "splashing dog",
+    "symbol": "SPLASHDOG",
+    "description": "X: https://x.com/KingChillxyz/status/2086376365570551964",
+    "image": "https://raw.githubusercontent.com/mariorimonz-prog/solino/main/meta/splashdog-20260811224954.webp",
+    "showName": true,
+    "properties": {
+        "category": "fungible",
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/mariorimonz-prog/solino/main/meta/splashdog-20260811224954.webp",
+                "type": "image/webp"
+            }
+        ]
+    }
+}
