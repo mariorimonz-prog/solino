@@ -1,0 +1,16 @@
+{
+    "name": "BAYLA",
+    "symbol": "BAYLA",
+    "description": "Web: https://memetics.wtf/ · X: https://x.com/JungleBayAC",
+    "image": "https://raw.githubusercontent.com/mariorimonz-prog/solino/main/meta/bayla-20260812160115.webp",
+    "showName": true,
+    "properties": {
+        "category": "fungible",
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/mariorimonz-prog/solino/main/meta/bayla-20260812160115.webp",
+                "type": "image/webp"
+            }
+        ]
+    }
+}
