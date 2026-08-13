@@ -1,0 +1,16 @@
+{
+    "name": "Kalman Fund",
+    "symbol": "KALMAN",
+    "description": "Kalman Fund (KALMAN)",
+    "image": "https://raw.githubusercontent.com/mariorimonz-prog/solino/main/meta/kalman-20260813154626.png",
+    "showName": true,
+    "properties": {
+        "category": "fungible",
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/mariorimonz-prog/solino/main/meta/kalman-20260813154626.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}
