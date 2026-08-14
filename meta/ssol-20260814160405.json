@@ -1,0 +1,16 @@
+{
+    "name": "Solayer SOL",
+    "symbol": "SSOL",
+    "description": "Solayer SOL (SSOL)",
+    "image": "https://raw.githubusercontent.com/mariorimonz-prog/solino/main/meta/ssol-20260814160405.jpg",
+    "showName": true,
+    "properties": {
+        "category": "fungible",
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/mariorimonz-prog/solino/main/meta/ssol-20260814160405.jpg",
+                "type": "image/jpeg"
+            }
+        ]
+    }
+}
