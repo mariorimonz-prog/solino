@@ -1,0 +1,16 @@
+{
+    "name": "looksmax.org",
+    "symbol": "LOOKSMAX",
+    "description": "Web: https://looksmax.org · X: https://x.com/LooksmaxMe",
+    "image": "https://raw.githubusercontent.com/mariorimonz-prog/solino/main/meta/looksmax-20260815161116.webp",
+    "showName": true,
+    "properties": {
+        "category": "fungible",
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/mariorimonz-prog/solino/main/meta/looksmax-20260815161116.webp",
+                "type": "image/webp"
+            }
+        ]
+    }
+}
